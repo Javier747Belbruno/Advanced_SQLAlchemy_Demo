@@ -1,4 +1,4 @@
-# Implementation of SQLAlchemy with Flask
+# Advanced Implementation of SQLAlchemy with Flask
 
 Flask is a microframework for Python based on Werkzeug. [page](https://flask.palletsprojects.com/).
 SQLAlchemy is a Python ORM and provides a simple way to create and manage databases. [page](https://www.sqlalchemy.org/).
