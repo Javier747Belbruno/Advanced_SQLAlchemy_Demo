@@ -1,7 +1,7 @@
 # Advanced Implementation of SQLAlchemy with Flask
 
-Flask is a microframework for Python based on Werkzeug. [page](https://flask.palletsprojects.com/).
-SQLAlchemy is a Python ORM and provides a simple way to create and manage databases. [page](https://www.sqlalchemy.org/).
+* Flask is a microframework for Python based on Werkzeug. [page](https://flask.palletsprojects.com/).
+* SQLAlchemy is a Python ORM and provides a simple way to create and manage databases. [page](https://www.sqlalchemy.org/).
 
 Data model defined in this implementation:
 ![](https://javier747belbruno.github.io/car-control-simulation/assets/database1.png)
@@ -14,9 +14,9 @@ Create an environment to not work with global python libraries installed on your
 
 
 Once the environment is created, you can activate it by running the following command:
-Linux:
+* Linux:
    ``` source .venv/bin/activate```
-Windows:
+* Windows:
    ```.\.venv\Scripts\activate.bat```
 
 
@@ -29,9 +29,9 @@ Windows:
 
 When you are done, you can deactivate the environment by running the following command
 to comeback to the OS environment:
-Linux
+* Linux
    ```source .venv/bin/activate```
-Windows
+* Windows
    ```.\.venv\Scripts\deactivate.bat```
 
 Code source original is from [here](https://github.com/corpsgeek/flask-sqlalchemy/)
